@@ -1,3 +1,4 @@
+# ADICIONEI ESTA LINHA PARA TESTAR, ELTON JÚNIOR.
 # What's new in TensorFlow 2.0
 
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
